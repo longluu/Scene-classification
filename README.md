@@ -1,5 +1,5 @@
 # SceneClassification
-This folder contains the codes for my class project on scene classification.
+In this project, I compare the performance of a scene classification model that is based on low-frequency components of amplitude spectrum (see Oliva & Torralba (2001)) and human fast perception of images. The conclusion is that human perception depends more on phase information than amplitude of the spatial spectrum.
 
 You can find a detailed report here:
 https://longtheluu.com/resources/scene-classification/
