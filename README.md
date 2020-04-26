@@ -4,5 +4,7 @@ In this project, I compare the performance of a scene classification model that 
 You can find a detailed report here:
 https://longtheluu.com/resources/scene-classification/
 
+Or you can see the same report "Scene classification.pdf" (but without animation)
+
 The data can found here:
 https://drive.google.com/drive/folders/1i1ZcbUroGzzG2NrD1uaYidb8FtQtf2Ei?usp=sharing
